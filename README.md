@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Proyecto de prueba
 
-Breve descripción del proyecto.
+Conclusiones del proyecto
 
 ## Tabla de contenidos
 
