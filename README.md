@@ -10,7 +10,6 @@ Conclusiones del proyecto
 4. [Proceso](#Proceso)
 5. [Funcionalidades](#Funcionalidades)
 6. [Estado del proyecto](#EstadoDelProyecto)
-7. [Agradecimientos](#Agradecimientos)
 
 
 * Nombre del proyecto: Desastres Naturales
