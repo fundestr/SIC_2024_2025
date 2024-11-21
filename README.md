@@ -1,4 +1,4 @@
-# JKAD
+# Desastres Naturales
 
 Conclusiones del proyecto
 
@@ -13,13 +13,13 @@ Conclusiones del proyecto
 7. [Agradecimientos](#Agradecimientos)
 
 
-* Nombre del proyecto
+* Nombre del proyecto: Desastres Naturales
 
 * Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
 * Arquitectura del proyecto + imagen
 
-* Proceso de desarrollo:
+* Proceso de desarrollo
 
 -Fuente del dataset
 
