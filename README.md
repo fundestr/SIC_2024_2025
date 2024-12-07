@@ -1,4 +1,4 @@
-# Desastres Naturales
+# Nombre Proyecto
 
 Conclusiones del proyecto
 
@@ -14,7 +14,8 @@ Conclusiones del proyecto
 
 * Nombre del proyecto: Desastres Naturales
 
-* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+* Breve descripción del proyecto
+-> Alguna imagen o gif que muestre el proyecto
 
 * Arquitectura del proyecto + imagen
 
